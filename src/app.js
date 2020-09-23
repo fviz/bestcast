@@ -10,10 +10,13 @@ const app = new Vue({
     data: {
         channels: [
             "beppierosie",
+            "vizentinf",
             "guidospace777",
             "superzilog",
             "nickyrebecca",
-            "thomkuytgraphics"
+            "thomkuytgraphics",
+            "kseniaaaaaaaaaaaaa",
+            "qualitykittenpainter"
         ],
         currentChannel: 0
     },
