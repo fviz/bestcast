@@ -3,10 +3,20 @@ html, body {
   padding: 0;
 }
 
+.previousChannelButton {
+  position: fixed;
+  top:50%;
+  left: 0;
+  z-index: 1000;
+  background-color: red;
+  padding: 1rem;
+  margin: 2rem;
+}
+
 .nextChannelButton {
   position: fixed;
-  top:0;
-  left: 0;
+  top:50%;
+  right: 0;
   z-index: 1000;
   background-color: red;
   padding: 1rem;
